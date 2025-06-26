@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:elizabeth.yuliana@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://github.com/ElizabethYuliana" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -49,16 +49,6 @@ I’m a **Java Backend Developer** with + **4 years of experience** building and
 - Advanced Spring Security (OAuth2, JWT)  
 - Azure Developer Stack
 - Microservices Testing & Observability (Grafana, New Relic, Kibana)
-
----
-
-### 📫 Contact Me
-
-- 💌 elizabeth.yuliana@hotmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/elizabeth-valdez-pacheco-629992122)  
-- 🗂️ [GitHub Portfolio](https://github.com/ElizabethYuliana)
-
----
 
 ### 💡 Quote
 
